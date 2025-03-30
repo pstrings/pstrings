@@ -1,7 +1,5 @@
-### Hi there, I'm Suyash and I'm a Web Developer 👋
+### Hi there, I'm Suyash and I'm a Developer 👋
 
-- 🔭 I’m currently working on a Node.js project
-- 🌱 I’m currently learning React and Node
+- 🔭 I'm a developer passionate about Python and the fascinating field of Machine Learning.
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/sharma-suyash/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a nerd but I'm also good at playing guitar and I love to play basketball
+- ⚡ Fun fact: I'm a very curious person and absolutely love the process of learning new things!
